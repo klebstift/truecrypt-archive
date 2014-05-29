@@ -1,11 +1,17 @@
-# TrueCrypt Archive
+# TrueCrypt - NSA Surrender Edition
+
+On May 28th 2014, the TrueCrypt website has included a message, that the project would be insecure and corrumpied, and recommended using _Microsoft BitLocker_, a closed source Windows integrated product available in the more expensive editions of Windows. The internet suspects the TrueCrypt project to infer NSA pressure, since the NSA had to surrender in decoding TrueCrypt containers. A campaign has been launched on the project's website to spread Fear, Uncertainity and Doubt on TrueCrypt's security, after the common suspiction of corruption has fade, following results of the 1st of two publicly financed security auditions. According to their plans, Windows users are supposed to not encrypt their data if they can't afford it, and encryption should not exclude the access of western security agencies under NSA's fuhrerschaft, which even the German government is to coward to oppose.
+
+This archive contains all TrueCrypt versions before 7.2, which itself has been castrated to only decrypt existing containers. **TrueCrypt 7.1a** is the last free version of a powerful data encryption suite for the most common closed source operating system on the world, on which even the NSA had to surrender to crack it up.
+
+## TrueCrypt Archive
 
 This is a tin foil hat area. Please put on your tin foil hat before proceeding.
 
 Most of the files are from this collection: http://cyberside.net.ee/truecrypt/. A **BIG** thanks to 16systems and CyR for collecting!
 
 
-## Missing files
+### Missing files
 
 At least these files are missing. If you have any of them, or know of other files that have been released by the TrueCrypt developers, please contact me! One idea is that they may be found on magazine CDs.
 
